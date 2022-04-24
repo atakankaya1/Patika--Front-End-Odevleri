@@ -1,1 +1,1 @@
-# Patika--Front-End-devleri
+# Patika--Front-End-odevleri
